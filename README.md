@@ -1,2 +1,2 @@
-# ML_AndrewNg
+# Machine Learning_AndrewNg
 My assignments solutions for Coursera course 'machine learning by Andrew Ng' 
